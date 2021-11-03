@@ -1,0 +1,22 @@
+{
+    "Restaurants":
+    [
+      {"name":"Taco Bell", "resType":"Fast Food","foodType":"Mexican","address":"11017 Nokesville Rd, Manassas, VA 20110","picture":"https://raw.githubusercontent.com/ChanceB2/Meal-Picker/main/TacoBell.jpeg","menu":"https://www.tacobell.com/food"},  
+      {"name":"Burger King", "resType":"Fast Food","foodType":"American Burgers","address":"8889 Centerville Rd, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/BurgerKing.jpeg?raw=true","menu":"https://www.bk.com/menu"},
+      {"name":"Mcdonalds", "resType":"Fast Food","foodType":"American Burgers","address":"8203 Sudley Rd, Manassas, VA 20109","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Mcdonalds.jpeg?raw=true","menu":"https://www.mcdonalds.com/us/en-us/full-menu.html"},
+      {"name":"Bojangles", "resType":"Fast Food","foodType":"Chicken","address":"46160 Potomac Run Plaza, Sterling, VA 20164","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Bojangles.jpeg?raw=true","menu":"https://www.bojangles.com/menu/"},
+      {"name":"Chick Fil-A", "resType":"Fast Food","foodType":"Chicken","address":"9506 Liberia Ave, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/ChickFilA.jpeg?raw=true","menu":"https://www.chick-fil-a.com/menu"},
+      {"name":"Arbys", "resType":"Fast Food","foodType":"Sandwiches","address":"9874 Liberia Ave, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Arbys.jpeg?raw=true","menu":"https://www.arbys.com/menu/"},
+      {"name":"Outback SteakHouse", "resType":"Sit Down","foodType":"Steakhouse","address":"4995 Wellington Rd, Gainesville, VA 20155","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Outback.jpeg?raw=true","menu":"https://order.outback.com/"},
+      {"name":"Red Robin", "resType":"Sit Down","foodType":"American Burgers","address":"9665 Liberia Ave, Manassas, VA 20111","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/RedRobin.jpeg?raw=true","menu":"https://www.redrobin.com/#whats-new"},
+      {"name":"Glory Days", "resType":"Sit Down","foodType":"Sports Bar","address":"9516 Liberia Ave, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/GloryDays.jpeg?raw=true","menu":"https://www.glorydaysgrill.com/food/"},
+      {"name":"Olive Garden", "resType":"Sit Down","foodType":"Italian","address":"7501 Broken Branch Ln, Manassas, VA 20109","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/OliveGarden.jpeg?raw=true","menu":"https://www.olivegarden.com/"},
+      {"name":"Logans Steakhouse", "resType":"Sit Down","foodType":"Steakhouse","address":"7731 Donegan Dr, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/LogansSteakhouse.jpeg?raw=true","menu":"https://logansroadhouse.com/menu"},
+      {"name":"Sakura Grill Ashburn", "resType":"Sit Down","foodType":"Hibachi","address":"43670 Greenway Corporate Dr #112, Ashburn, VA 20147","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Sakura.jpeg?raw=true","menu":"https://www.sakuragrillashburn.com/"},
+      {"name":"Pizza Hut", "resType":"Pizza","foodType":"Pizza","address":"10060 Dumfries Rd, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/PizzaHut.jpeg?raw=true","menu":"https://www.pizzahut.com/"},
+      {"name":"Paisanos", "resType":"Pizza","foodType":"Italian","address":"8683 Sudley Rd, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Paisianos.jpg?raw=true","menu":"https://www.paisanospizza.com/menu"},
+      {"name":"Dominos", "resType":"Pizza","foodType":"Pizza","address":"10175 Hastings Dr, Manassas, VA 20110","picture":"https://github.com/ChanceB2/Meal-Picker/blob/main/Dominos.jpeg?raw=true","menu":"https://www.dominos.com/en/pages/order/menu#!/menu/category/viewall/"}
+
+    ],
+    "Status":"OK"
+  }      
